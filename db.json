@@ -1,6 +1,4 @@
 {
-    "CreditByRealizedEquity": 0.004563084645220169,
-    "CreditByUnrealizedEquity": 0.013170242634419401,
     "AggregatedPositions": [
         {
             "InstrumentID": 1021,
@@ -94,44 +92,4 @@
             "Value": 2.19922929929979
         }
     ],
-    "AggregatedMirrors": [],
-    "AggregatedPositionsByInstrumentTypeID": [
-        {
-            "InstrumentTypeID": 5,
-            "Direction": "Buy",
-            "Invested": 76.7493,
-            "NetProfit": -68.0851,
-            "Value": 70.69736844834453
-        },
-        {
-            "InstrumentTypeID": 10,
-            "Direction": "Buy",
-            "Invested": 23.246,
-            "NetProfit": -56.3457,
-            "Value": 29.289461309021053
-        }
-    ],
-    "AggregatedPositionsByStockIndustryID": [
-        {
-            "StockIndustryID": 3,
-            "Direction": "Buy",
-            "Invested": 21.6971,
-            "NetProfit": -98.757,
-            "Value": 0.7783940845327365
-        },
-        {
-            "StockIndustryID": 7,
-            "Direction": "Buy",
-            "Invested": 51.0081,
-            "NetProfit": -57.4027,
-            "Value": 62.712743629242716
-        },
-        {
-            "StockIndustryID": 8,
-            "Direction": "Buy",
-            "Invested": 4.0441,
-            "NetProfit": -38.2629,
-            "Value": 7.206230734569075
-        }
-    ]
 }
