@@ -1,2 +1,137 @@
 {
+    "CreditByRealizedEquity": 0.004563084645220169,
+    "CreditByUnrealizedEquity": 0.013170242634419401,
+    "AggregatedPositions": [
+        {
+            "InstrumentID": 1021,
+            "Direction": "Buy",
+            "Invested": 1.2436,
+            "NetProfit": 8.5762,
+            "Value": 3.8973842704026045
+        },
+        {
+            "InstrumentID": 1699,
+            "Direction": "Buy",
+            "Invested": 51.0081,
+            "NetProfit": -57.4027,
+            "Value": 62.712743629242716
+        },
+        {
+            "InstrumentID": 6153,
+            "Direction": "Buy",
+            "Invested": 2.2636,
+            "NetProfit": -55.0941,
+            "Value": 2.933914989713617
+        },
+        {
+            "InstrumentID": 6217,
+            "Direction": "Buy",
+            "Invested": 5.592,
+            "NetProfit": -99.9985,
+            "Value": 0.00023378471876353
+        },
+        {
+            "InstrumentID": 6300,
+            "Direction": "Buy",
+            "Invested": 0.5368,
+            "NetProfit": -75.8021,
+            "Value": 0.37493147445285296
+        },
+        {
+            "InstrumentID": 6591,
+            "Direction": "Buy",
+            "Invested": 16.105,
+            "NetProfit": -98.3259,
+            "Value": 0.7781602998139729
+        },
+        {
+            "InstrumentID": 100003,
+            "Direction": "Buy",
+            "Invested": 0.5189,
+            "NetProfit": -63.1546,
+            "Value": 0.5518661952847796
+        },
+        {
+            "InstrumentID": 100018,
+            "Direction": "Buy",
+            "Invested": 2.6841,
+            "NetProfit": -87.6916,
+            "Value": 0.9535502803049081
+        },
+        {
+            "InstrumentID": 100020,
+            "Direction": "Buy",
+            "Invested": 0.3469,
+            "NetProfit": -67.8726,
+            "Value": 0.3217412803573163
+        },
+        {
+            "InstrumentID": 100022,
+            "Direction": "Buy",
+            "Invested": 2.6841,
+            "NetProfit": -88.7543,
+            "Value": 0.8712223963490129
+        },
+        {
+            "InstrumentID": 100026,
+            "Direction": "Buy",
+            "Invested": 9.2187,
+            "NetProfit": -21.7726,
+            "Value": 20.814555020617142
+        },
+        {
+            "InstrumentID": 100043,
+            "Direction": "Buy",
+            "Invested": 2.8452,
+            "NetProfit": -56.4383,
+            "Value": 3.577296836808104
+        },
+        {
+            "InstrumentID": 100080,
+            "Direction": "Buy",
+            "Invested": 4.9478,
+            "NetProfit": -84.5999,
+            "Value": 2.19922929929979
+        }
+    ],
+    "AggregatedMirrors": [],
+    "AggregatedPositionsByInstrumentTypeID": [
+        {
+            "InstrumentTypeID": 5,
+            "Direction": "Buy",
+            "Invested": 76.7493,
+            "NetProfit": -68.0851,
+            "Value": 70.69736844834453
+        },
+        {
+            "InstrumentTypeID": 10,
+            "Direction": "Buy",
+            "Invested": 23.246,
+            "NetProfit": -56.3457,
+            "Value": 29.289461309021053
+        }
+    ],
+    "AggregatedPositionsByStockIndustryID": [
+        {
+            "StockIndustryID": 3,
+            "Direction": "Buy",
+            "Invested": 21.6971,
+            "NetProfit": -98.757,
+            "Value": 0.7783940845327365
+        },
+        {
+            "StockIndustryID": 7,
+            "Direction": "Buy",
+            "Invested": 51.0081,
+            "NetProfit": -57.4027,
+            "Value": 62.712743629242716
+        },
+        {
+            "StockIndustryID": 8,
+            "Direction": "Buy",
+            "Invested": 4.0441,
+            "NetProfit": -38.2629,
+            "Value": 7.206230734569075
+        }
+    ]
 }
